@@ -7,6 +7,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>DeskMon updates</title>
         <language>ko</language>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Thu, 17 Sep 2026 16:37:48 +0900</pubDate>
+            <sparkle:version>13000</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[펫의 작은 방을 꾸며 주세요
+
+• 펫의 방: 픽셀 창문과 나무 바닥이 있는 쉼터를 추가했습니다.
+• 기본 침대·러그·화분을 무료로 제공합니다. 기존 데이터도 그대로 유지됩니다.
+• 80코인으로 가구 9종을 뽑고 15자리에 자유롭게 배치할 수 있습니다.
+• 클릭 또는 드래그로 이동, 보관함 회수, 무료 방 테마 3종을 지원합니다.
+• 방에서 쉬기: 에너지 25 회복과 잠자는 표정. 깨우기, 먹이·놀이·배틀로 일어납니다.
+• 보유 가구·배치·테마·휴식 상태를 자동 저장합니다.
+]]></description>
+            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v1.3.0/DeskMon-1.3.0-arm64.dmg" length="1959419" type="application/octet-stream" sparkle:edSignature="BRR06txMfYilsbTyStyCfsjNaUZO62Gz/QiXbxkbxbhlRQtYr67WQPxGI8t2MsNtBqG5DA9VmCKFdEFU3O81AA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 17 Sep 2026 09:42:49 +0900</pubDate>
             <sparkle:version>12000</sparkle:version>
@@ -28,6 +46,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LFhv2P0vDc9kp/NkOub7vXgNLx1Ld1pxrDsJsDhE0krbY7fSa7LpVFvGGU7l1Ef26nn/o1BVhsgd6DyjMD/SAg==
-length: 1946
+edSignature: lVMtBR77NM3qZa+wKNBPW/sYDxlISYJ1qK70LaljUAjOIdw9S/UJwVtWpWXrPPv5LfTdVfRtcDFvY5ptcFqADQ==
+length: 3346
 -->
