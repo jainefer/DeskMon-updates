@@ -7,6 +7,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>DeskMon updates</title>
         <language>ko</language>
         <item>
+            <title>2.1.0</title>
+            <pubDate>Fri, 18 Sep 2026 14:59:59 +0900</pubDate>
+            <sparkle:version>21000</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.1.0 — 새로운 친구들과 사계절 가구
+
+1.6.0 이후 미배포 변경을 통합했습니다.
+
+• 총 48종: 포켓몬 44종과 스페셜 4종(두준·아구몬·파피몬·파닥몬).
+• 고라파덕·잠만보·메타몽·나옹·마릴·토게피·무우마, 전설의 세 새와 2차 포켓몬 10종을 추가했습니다. 새 친구 23종에 각각 다른 픽셀 그림과 행동별 표정을 적용했습니다.
+• 스페셜은 상점에서만 영입하며 합성 재료로 소모되지 않습니다. 기존 보유 친구는 유지됩니다. 새 게임은 피카츄와 500코인으로 시작합니다.
+• 프리져·썬더·파이어는 목호 배지와 각 1,800코인, 뮤츠·루기아·칠색조는 단델 배지와 각 2,500코인으로 영입합니다. 뮤의 기존 알·합성·상점 획득은 유지됩니다.
+• 알 확률 합계를 100%로 교정하고 모든 알 후보의 획득 가능성을 확인했습니다.
+• 가구 31종: 테마 가구 6종과 봄·여름·가을·겨울 각 4종을 추가했습니다. 새 둥지·선풍기·도토리 바구니·벽난로 등 각기 다른 픽셀 그림으로 꾸밀 수 있습니다.
+• 방 테마는 총 6종입니다. 라벤더 노을·벚꽃 정원·눈 내리는 밤을 추가했습니다.
+• 바탕화면 펫 크기를 70~160%로 조절하고 저장할 수 있습니다. 우클릭 메뉴의 작게·보통·크게·아주 크게도 실제 펫과 이름표 크기에 반영됩니다.
+• 모니터와 볼을 결합한 DeskMon 로고를 앱 아이콘·사이드바·메뉴 막대에 적용했습니다.
+• 이전 저장 파일에 크기 설정이 없어도 펫·코인·성장·방·여행 기록을 유지하도록 수정했습니다.
+
+현재 추가된 일부 포켓몬의 중간 진화형은 아직 미등록입니다. 기존 8개 계열의 진화는 그대로 지원합니다. 이번 DMG는 Apple Silicon / macOS 14 이상용이며 Apple 공증은 하지 않았습니다.
+]]></description>
+            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.1.0/DeskMon-2.1.0-arm64.dmg" length="2205042" type="application/octet-stream" sparkle:edSignature="KG9JW4hgpqIjIHYWoC+V0Oh9Rbisj1xKScQiaN7oRR8qrTTImTsnqtNh9f9M+S2li2o+GngOTZtIVoo3tJsGBw=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Fri, 18 Sep 2026 09:41:35 +0900</pubDate>
             <sparkle:version>16000</sparkle:version>
@@ -46,28 +72,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v1.5.0/DeskMon-1.5.0-arm64.dmg" length="2089427" type="application/octet-stream" sparkle:edSignature="W/R2kwiIsPAxBE/MWx2GwQ4iWt3TTAkQDK62ef0wDozLoi0u3qKJ+3fB9x05DANeA+GpONlr+ySmHJ1AyPPPAw=="/>
         </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Thu, 17 Sep 2026 17:03:36 +0900</pubDate>
-            <sparkle:version>14000</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[매일 작은 모험, 차곡차곡 코인
-
-• 산책과 탐험 메뉴를 추가했습니다.
-• 동네 산책: 5분, 에너지 10, 보상 30코인 + 10 EXP.
-• 숲속 탐험: 30분, 에너지 25, 보상 120코인 + 35 EXP.
-• 앱을 종료해도 진행되며 완료 후 보상을 직접 받습니다.
-• 먹이·놀이·산책·탐험 일일 미션으로 하루 최대 170코인을 추가로 받습니다.
-• 일일 미션은 현지 시간 자정에 초기화되고 각 보상은 하루 한 번 받습니다.
-• 기존 펫·가구·코인은 유지됩니다.
-]]></description>
-            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v1.4.0/DeskMon-1.4.0-arm64.dmg" length="1750186" type="application/octet-stream" sparkle:edSignature="UO6+Sak+Sd82ZY/CxQnOtKpHIfarNSxJBhDb1+jHR1tcaYywZhnbZwrrTRNqKdBbL89aK/gAcLY7HIq1GoLiDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 10CoobjExECFbZHAV0/r/cdg4e31AnzI/8wdWvDKuavAp21zR9/dlg3U47Lp5EQD6TBa/AlDylePf/YW+idoBA==
-length: 5262
+edSignature: cwF784YwtejQ7BGbJjKronzMkXR1feyS0EQ90fLEk8NwPnm321DdwFMkxh5GADWze/tNwrBr3RZV4/VnFSfQDw==
+length: 6665
 -->
