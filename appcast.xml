@@ -7,6 +7,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>DeskMon updates</title>
         <language>ko</language>
         <item>
+            <title>2.3.0</title>
+            <pubDate>Sat, 19 Sep 2026 16:20:20 +0900</pubDate>
+            <sparkle:version>23000</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.3.0 — 별이의 새 모습, 새로운 친구 보리
+
+• 별이의 모습을 제공된 토이푸들 픽셀 디자인으로 교체했습니다. 기존 별이의 레벨·친밀도·보유 기록은 그대로 유지됩니다.
+• 크림색 포메라니안 보리를 스페셜 상점에 추가했습니다. 300코인으로 영입할 수 있습니다.
+• 별이와 보리는 기본·산책·놀람·냠냠·윙크·잠들기 표정과 동작을 지원합니다.
+• 전체 친구는 50종(포켓몬 44종 + 스페셜 6종)입니다. 두 강아지는 일반 알·합성에서 제외되며 합성 재료로 소모되지 않습니다.
+• Windows 10/11 x64 설치 파일을 함께 제공합니다. 돌봄·배틀·탐험·가구·펫의 방·바탕화면 펫과 크기 조절을 지원합니다.
+• 윈도우 설정에서 저장 JSON을 가져오거나 내보낼 수 있습니다. 보리가 포함된 저장을 맥에서 열 때는 2.3.0 이상을 사용하세요.
+
+맥 설치 파일: Apple Silicon / macOS 14 이상.
+윈도우 설치 파일: Windows 10/11 x64.
+]]></description>
+            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.3.0/DeskMon-2.3.0-arm64.dmg" length="3260461" type="application/octet-stream" sparkle:edSignature="obOxbdQmKHp1EJp3A/gjbkfK0iXsCUOZp33zyLGiaaz4QKsAmFTeiMgyqUJW51DxxvwyYfTZtWg5DOGSmO6JDQ=="/>
+        </item>
+        <item>
             <title>2.2.0</title>
             <pubDate>Fri, 18 Sep 2026 15:35:00 +0900</pubDate>
             <sparkle:version>22000</sparkle:version>
@@ -52,29 +73,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.1.0/DeskMon-2.1.0-arm64.dmg" length="2205042" type="application/octet-stream" sparkle:edSignature="KG9JW4hgpqIjIHYWoC+V0Oh9Rbisj1xKScQiaN7oRR8qrTTImTsnqtNh9f9M+S2li2o+GngOTZtIVoo3tJsGBw=="/>
         </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Fri, 18 Sep 2026 09:41:35 +0900</pubDate>
-            <sparkle:version>16000</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[챔피언에게 도전하고, 중복 친구를 새로운 만남으로
-
-• 알 연구소에 포켓몬 합성과 스페셜 상점을 추가했습니다.
-• 합성: 2마리를 소모해 Lv.1 기본형 1마리를 받습니다. 추가 코인은 필요하지 않습니다.
-• 재료와 같은 종은 제외하며, 현재 보유하지 않은 기본형을 우선합니다. 후보는 균등 확률이며 선택 후 화면에 표시됩니다.
-• 현재 파트너·여행 중인 펫·두준은 합성에서 보호합니다. 최종 확인창에서 재료와 소모되는 성장 수치를 확인할 수 있습니다.
-• 합성 저장 실패 시 원상복구하며, 기존 발견 기록은 유지됩니다.
-• 챔피언 목호(Lv.10 망나뇽)·단델(Lv.20 리자몽)의 DeskMon 전용 1:1 도전.
-• 첫 승리 시 배지와 추가 300/500코인. 목호 승리 후 단델과 뮤 확정 구매가 열립니다.
-• 스페셜 상점: 두준(기존 시작 선물 유지)·뮤(목호 배지 + 1,200코인). 보유 중인 종은 추가 구매할 수 없습니다.
-]]></description>
-            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v1.6.0/DeskMon-1.6.0-arm64.dmg" length="2166765" type="application/octet-stream" sparkle:edSignature="wFe6kdvqrc1J0hmx47HXAYrRjP3hkbDHQIFurUjELf1S9/jQImc9ATsidlFGyfKdVF+ezTdoMrztOT6fcrpkDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LC6Qj0s/0zPP85aVrhDtiGXTd8xT9w5e6rlSmnTrDmF5GGj3JKI/UkvJQBZcee2QXtfZohZ2iLZRH+U8iJBKBw==
-length: 6967
+edSignature: HSh5+wJRVIzri3yJ81h1e+PC5WVYv7unyAamuwJAg8kWvduIET5Af/B78NFst1Fcq3zWBnua4aCNSdEh/mngAQ==
+length: 6981
 -->
