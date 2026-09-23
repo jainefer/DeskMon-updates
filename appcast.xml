@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>DeskMon updates</title>
         <language>ko</language>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Wed, 23 Sep 2026 09:42:21 +0900</pubDate>
+            <sparkle:version>25000</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.5.0 — 스페셜 친구 여섯
+
+• 뉴건담, 너굴, 우소, 가르마, 치이카와, 우사기를 스페셜 상점에 각각 추가했습니다.
+• 여섯 친구 모두 600코인으로 확정 영입하며 중복 구매할 수 없습니다.
+• 기본·걷기·잡기·먹기·윙크·수면 픽셀 표정과 동작을 Mac과 Windows에 함께 적용했습니다.
+• 전체 친구는 56종(포켓몬 44종 + 스페셜 12종)입니다.
+• 새 스페셜 친구는 일반 알·합성·야생 상대에서 제외되고 합성 재료로 보호됩니다.
+]]></description>
+            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.5.0/DeskMon-2.5.0-arm64.dmg" length="5429118" type="application/octet-stream" sparkle:edSignature="IbsKuZ0Vm7NtU8tm2pHBpgelqequxH9BQbNtKCi4mqaSjpLvykKeY8yIgqZUxIFATfHIO+BHu+wGQE74KPt6AA=="/>
+        </item>
+        <item>
             <title>2.4.0</title>
             <pubDate>Tue, 22 Sep 2026 17:39:22 +0900</pubDate>
             <sparkle:version>24000</sparkle:version>
@@ -47,29 +64,9 @@ Windows: Windows 10/11 x64.
 ]]></description>
             <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.3.0/DeskMon-2.3.0-arm64.dmg" length="3260461" type="application/octet-stream" sparkle:edSignature="obOxbdQmKHp1EJp3A/gjbkfK0iXsCUOZp33zyLGiaaz4QKsAmFTeiMgyqUJW51DxxvwyYfTZtWg5DOGSmO6JDQ=="/>
         </item>
-        <item>
-            <title>2.2.0</title>
-            <pubDate>Fri, 18 Sep 2026 15:35:00 +0900</pubDate>
-            <sparkle:version>22000</sparkle:version>
-            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.2.0 — 새로운 스페셜 친구 별이
-
-• 살구색 곱슬털과 동그란 귀, 밝은 주둥이와 분홍 혀를 가진 별이를 추가했습니다.
-• 별이는 스페셜 상점에서 300코인으로 영입할 수 있습니다. 일반 알·합성 결과에는 나오지 않고 합성 재료로도 소모되지 않습니다.
-• 걷기·잡기·먹기·놀기·휴식에 맞춘 애니메이션과 표정을 지원합니다.
-• 전체 친구는 49종(포켓몬 44종 + 스페셜 5종)입니다. 기존 친구와 육성 기록은 유지됩니다.
-• 윈도우용 DeskMon을 처음 제공합니다. 픽셀 그림과 육성 규칙을 공유하며 바탕화면 펫·우클릭 메뉴·펫의 방·산책·탐험·합성·챔피언을 지원합니다.
-• 윈도우 설정 화면에서 맥 저장 JSON을 가져오거나 내보낼 수 있습니다. 별이를 포함한 저장을 맥에서 열 때는 2.2.0 이상을 사용하세요.
-
-맥 설치 파일은 Apple Silicon / macOS 14 이상용이며 윈도우 설치 파일은 Windows 10/11 x64용입니다. 운영체제에 맞는 설치 파일을 선택해 주세요.
-]]></description>
-            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.2.0/DeskMon-2.2.0-arm64.dmg" length="2207622" type="application/octet-stream" sparkle:edSignature="ikelBL6UiZniv9joNkhvyw5Q6BciflgM3KO4fTFP7B0W99+LYymOfihDJXWFu6lY3/xvhnvEPvvfQ74z8nuOCw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: dizRD7TubQUBw86ZpOD+fOLnpRV8AHWrrNEJjTYgg88qKj4CFI3oYA4dUaT/fNEr5u8heBmbt6QetAA64nrNDA==
-length: 5755
+edSignature: XMCTyfKHavUlXJnOgcLFIg8rHBIJlSKix1tq77IjNZmYw9kFd8DVQKVdbFGAwGoN1Q8vD9uBRKZrBfYPZHLwDw==
+length: 5192
 -->
