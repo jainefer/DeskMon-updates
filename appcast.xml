@@ -7,6 +7,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>DeskMon updates</title>
         <language>ko</language>
         <item>
+            <title>2.6.0</title>
+            <pubDate>Wed, 23 Sep 2026 13:09:55 +0900</pubDate>
+            <sparkle:version>26000</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.6.0 — 방에서 보내는 자유 시간
+
+• 펫이 방의 빈 자리를 스스로 돌아다닙니다.
+• 걷는 사이에 혼자 놀거나 잠깐 쉬는 자율 행동과 표정이 나타납니다.
+• 직접 드래그, 자리 이동, 수면, 돌봄, 배틀, 탐험, 가구 편집 중에는 자율 행동을 안전하게 멈춥니다.
+• 자율 행동은 코인·에너지·육성 수치를 임의로 바꾸지 않습니다.
+• Mac과 Windows에서 같은 행동 흐름을 제공합니다.
+]]></description>
+            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.6.0/DeskMon-2.6.0-arm64.dmg" length="5432041" type="application/octet-stream" sparkle:edSignature="jXtC35lJyKuVOidRKXByA8MAm/+HVG6K9oOXrbh62wHSXaQHWfXbHoOhLd8IUM65Y31tszNp6013Zc6DgwznDQ=="/>
+        </item>
+        <item>
             <title>2.5.0</title>
             <pubDate>Wed, 23 Sep 2026 09:42:21 +0900</pubDate>
             <sparkle:version>25000</sparkle:version>
@@ -43,30 +60,9 @@ Windows: Windows 10/11 x64.
 ]]></description>
             <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.4.0/DeskMon-2.4.0-arm64.dmg" length="3285115" type="application/octet-stream" sparkle:edSignature="vD302ofz4Jdh0tiTBtVRm7r8cRZ5kv+Hl9N6JxQiYUxTMWXx1bBATwpPZeAUgnpkrDgAUOlTcvKNrPupvn/1DA=="/>
         </item>
-        <item>
-            <title>2.3.0</title>
-            <pubDate>Sat, 19 Sep 2026 16:20:20 +0900</pubDate>
-            <sparkle:version>23000</sparkle:version>
-            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[DeskMon 2.3.0 — 별이의 새 모습, 새로운 친구 보리
-
-• 별이의 모습을 제공된 토이푸들 픽셀 디자인으로 교체했습니다. 기존 별이의 레벨·친밀도·보유 기록은 그대로 유지됩니다.
-• 크림색 포메라니안 보리를 스페셜 상점에 추가했습니다. 300코인으로 영입할 수 있습니다.
-• 별이와 보리는 기본·산책·놀람·냠냠·윙크·잠들기 표정과 동작을 지원합니다.
-• 전체 친구는 50종(포켓몬 44종 + 스페셜 6종)입니다. 두 강아지는 일반 알·합성에서 제외되며 합성 재료로 소모되지 않습니다.
-• Windows 10/11 x64 설치 파일을 함께 제공합니다. 돌봄·배틀·탐험·가구·펫의 방·바탕화면 펫과 크기 조절을 지원합니다.
-• 윈도우 설정에서 저장 JSON을 가져오거나 내보낼 수 있습니다. 보리가 포함된 저장을 맥에서 열 때는 2.3.0 이상을 사용하세요.
-
-맥 설치 파일: Apple Silicon / macOS 14 이상.
-윈도우 설치 파일: Windows 10/11 x64.
-]]></description>
-            <enclosure url="https://github.com/jainefer/DeskMon-updates/releases/download/v2.3.0/DeskMon-2.3.0-arm64.dmg" length="3260461" type="application/octet-stream" sparkle:edSignature="obOxbdQmKHp1EJp3A/gjbkfK0iXsCUOZp33zyLGiaaz4QKsAmFTeiMgyqUJW51DxxvwyYfTZtWg5DOGSmO6JDQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: XMCTyfKHavUlXJnOgcLFIg8rHBIJlSKix1tq77IjNZmYw9kFd8DVQKVdbFGAwGoN1Q8vD9uBRKZrBfYPZHLwDw==
-length: 5192
+edSignature: wkzIJRknrSvXwNtQQqeiv1rTkv1MPijlv6RyEJFEAtLuo3YPW79IWtyssptH+a8LBMfKMV0pvSvQCtt8h354Aw==
+length: 4629
 -->
